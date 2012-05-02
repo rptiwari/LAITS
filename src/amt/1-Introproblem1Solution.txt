@@ -1,0 +1,51 @@
+======== TASK TYPE =========
+Type: Intro
+
+======== NODE TYPES, INPUTS, AND OUTPUTS =========
+Nodes: 1
+
+population type: constant
+population inputs: 
+population outputs: 
+
+PROBLEM'S SEEKING: population
+Corresponding Underlined Text: The population of the Phoenix metro area in 2009 is 4,192,887.
+
+======== DESCRIPTIONS =========
+SituationDescription: population = <html><u><strong><font size="4" color="418000"><b>The population of the Phoenix metro area in 2009 is 4,192,887.</b></font></strong></u></html>
+SituationDescription: Tuscon population = <html>The population<u><strong><font size="4" color="CC3333"><b> of the Phoenix metro area in 2009 is 4,192,887.</b></font></strong></u></html>
+SituationDescription: fruit ratio = <html>The population of the <u><strong><font size="4" color="CC3334"><b>Phoenix metro area in 2009 is 4,192,887.</b></font></strong></u></html>
+SituationDescription: Male female ratio = <html>The population of the Phoenix metro area in 2009 is <u><strong><font size="4" color="CCCC99"><b>4,192,887.</b></font></strong></u></html>
+
+CorrectDescription: population = The number of people living in the Phoenix metro area in 2009
+
+======== TREE ========
+Tree: -:The number of
+Tree: --:people living in the Phoenix metro area in 2009.population
+Tree: --:people living in Tuscon in 2009.Tuscon population
+Tree: -:The ratio of
+Tree: --:apples to oranges.fruit ratio
+Tree: --:males chimpanzees to female.Male female ratio
+
+======== EQUATIONS =========
+Equation: population = 4192887
+
+
+======== TIME:  0==========
+CONSTANTS: 1
+population = 4192887.0,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  1==========
+CONSTANTS: 1
+population = 4192887.0,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  2==========
+CONSTANTS: 1
+population = 4192887.0,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
