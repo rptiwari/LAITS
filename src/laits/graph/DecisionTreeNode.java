@@ -11,7 +11,7 @@ import javax.swing.tree.DefaultMutableTreeNode;
  * @author admin
  */
 public class DecisionTreeNode extends DefaultMutableTreeNode {
-
+// Test
         public String nodeName;
         public boolean isCorrect;
         
@@ -27,3 +27,4 @@ public class DecisionTreeNode extends DefaultMutableTreeNode {
             this.isCorrect = node.isCorrect;
         }
     }
+ 
