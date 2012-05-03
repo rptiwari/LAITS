@@ -1,0 +1,110 @@
+======== TASK TYPE =========
+Type: Intro
+
+======== NODE TYPES, INPUTS, AND OUTPUTS =========
+Nodes: 1
+
+fat content type: constant
+fat content inputs: 
+fat content outputs: 
+
+PROBLEM'S SEEKING: fat content
+Corresponding Underlined Text: By weight, potato chips are 35% fat
+
+======== DESCRIPTIONS =========
+SituationDescription: fat content = <html><u><strong><font size="4" color="418000"><b>By weight, potato chips are 35%</b></font></strong></u>. (Hint:  You always have to convert percentages to decimals.)</html>
+SituationDescription: large bag chip count = <html>By <u><strong><font size="4" color="CCCC99"><b>weight, potato chips are 35%</b></font></strong></u>. (Hint:  You always have to convert percentages to decimals.)</html>
+SituationDescription: small bag chip count = <html>By weight<u><strong><font size="4" color="663400"><b>, potato chips are 35%</b></font></strong></u>. (Hint:  You always have to convert percentages to decimals.)</html>
+SituationDescription: potato chip fat = <html>By weight, potato<u><strong><font size="4" color="CC3334"><b> chips are 35%</b></font></strong></u>. (Hint:  You always have to convert percentages to decimals.)</html>
+SituationDescription: bacon fat = <html>By weight, potato chips<u><strong><font size="4" color="CC3335"><b> are 35%</b></font></strong></u>. (Hint:  You always have to convert percentages to decimals.)</html>
+SituationDescription: tortilla chip fat content = <html>By weight, potato chips are<u><strong><font size="4" color="663399"><b> 35%</b></font></strong></u>. (Hint:  You always have to convert percentages to decimals.)</html>
+SituationDescription: chip weight ratio = <html><u><strong><font size="4" color="CC3333"><b>By weight, potato chips are 35%. (Hint:  You always</b></font></strong></u> have to convert percentages to decimals.)</html>
+
+CorrectDescription: fat content = The ratio of the weight of the fat in a potato chip to the weight of the potato chip
+
+======== TREE ========
+Tree: -:The number of 
+Tree: --:potato chips
+Tree: ---:in a large bag.large bag chip count
+Tree: ---:in a small bag.small bag chip count
+Tree: --:grams of fat
+Tree: ---:in a potato chip.potato chip fat
+Tree: ---:in a strip of bacon.bacon fat
+Tree: -:The ratio of
+Tree: --:the weight of the fat in a potato chip to
+Tree: ---:the weight of the potato chip.fat content
+Tree: ---:the weight of fat in a tortilla chip.tortilla chip fat content
+Tree: --:the weight of a potato chip to
+Tree: ---:the weight of a tortilla chip.chip weight ratio
+
+
+======== EQUATIONS =========
+Equation: fat content = .35
+
+
+======== TIME:  0==========
+CONSTANTS: 1
+fat content = 0.35,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  1==========
+CONSTANTS: 1
+fat content = 0.35,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  2==========
+CONSTANTS: 1
+fat content = 0.35,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  3==========
+CONSTANTS: 1
+fat content = 0.35,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  4==========
+CONSTANTS: 1
+fat content = 0.35,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  5==========
+CONSTANTS: 1
+fat content = 0.35,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  6==========
+CONSTANTS: 1
+fat content = 0.35,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  7==========
+CONSTANTS: 1
+fat content = 0.35,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  8==========
+CONSTANTS: 1
+fat content = 0.35,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  9==========
+CONSTANTS: 1
+fat content = 0.35,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
+======== TIME:  10==========
+CONSTANTS: 1
+fat content = 0.35,
+AUXILIARIES: 0
+FLOWS: 0
+STOCKS: 0
